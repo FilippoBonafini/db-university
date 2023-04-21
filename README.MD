@@ -1,2 +1,2 @@
 # GUIDA:
-## scaricare il progetto e aprire l'html per visualizzare l'esercizio
+## scaricare il progetto e aprire in un browser il file .html per visualizzare l'esercizio.
