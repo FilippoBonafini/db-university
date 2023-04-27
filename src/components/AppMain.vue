@@ -27,11 +27,11 @@ export default {
                 </li>
             </ul>
             <div class="w-3/4 h-4/5 bg-gray-700 p-20 text-slate-100 text-xl">
-                <textarea
-                    class="pointer-events-none w-full h-full bg-transparent resize-none border-none outline-none focus:outline-none"
+                <textarea class="w-full h-full bg-transparent resize-none border-none outline-none focus:outline-none"
                     :value="store.questions[store.active].risposta"></textarea>
             </div>
         </div>
     </main>
 </template>
 
+<!-- pointer-events-none -->
